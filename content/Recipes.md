@@ -118,6 +118,7 @@
 [[Chicken Tinga]]
 [[Chipotle Mayo Cream]]
 [[Chipotle-style Cilantro Lime Rice]]
+[[Chorizo-Potato Tacos]]
 [[Churro Cupcakes with Salted Dulce de Leche Sauce]]
 [[Enchiladas Especiales Tacuba Style]]
 [[Flank Steak Fajitas]]
