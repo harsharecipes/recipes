@@ -25,6 +25,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "harsharecipes/recipes",
+        repoId: "R_kgDOSL-vDw",
+        category: "Comments",
+        categoryId: "DIC_kwDOSL-vD84C_YLw",
+        mapping: "pathname",
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+      },
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
